@@ -1,4 +1,4 @@
-## HMM
+## HMN
 Source code for SIGIR 2019 paper "Hierarchical Matching Network for Crime Classification"
 
 ### Dependecies
